@@ -3,7 +3,7 @@
 # Codewars Go Challenges 🏆
 
 ![Go](https://img.shields.io/badge/Language-Go-blue.svg)
-![Codewars](https://img.shields.io/badge/Codewars-Level%208%20kyu-red)
+![Codewars](https://img.shields.io/badge/Codewars-Level%205%20kyu-red)
 
 This repository contains my solutions to various **Codewars** challenges in the **Go** programming language. By solving these tasks, I am improving my proficiency in Go, practicing problem-solving techniques, and reinforcing my understanding of Go concepts like goroutines, channels, data structures, and algorithms.
 
@@ -21,6 +21,6 @@ On **Codewars**, I am tackling challenges (Kata) of varying difficulty levels. F
 
 Each challenge has its own folder containing:
 
-- **`problem.md`**: A description of the challenge.
+- **`README.md`**: A description of the challenge.
 - **`solution.go`**: My solution implemented in Go.
 - **`test.go`** (optional): Unit tests for verifying the solution.
