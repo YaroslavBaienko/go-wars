@@ -6,7 +6,7 @@ import (
 
 func main() {
 	var number int = 500000556
-	fmt.Printf("Number %d have %d divisors", number, Divisors(number))
+	fmt.Printf("Number %d have %d divisors\n", number, Divisors(number))
 }
 
 func Divisors(n int) int {
